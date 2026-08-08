@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://energyefficienthome.com/blog-energyefficienthome/sitemap.xml
